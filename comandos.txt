@@ -1,0 +1,7 @@
+git init -> Inicializa un repositorio.
+git status -> mira como estan los archivos del repositorio.
+git add -A -> sube todo lo que esta en working directory a staging.
+git rm --cached "file" -> quita un archivo del staging.
+git log -> muestra el historial de los commit.
+git checkout nombre -> cambia de rama.
+
